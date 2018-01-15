@@ -1,0 +1,18 @@
+body {
+	font-family: Calibri;
+	font-size: 14px;
+}
+.sinal1{
+	background-color: rgb(200,150,150);
+}
+.sinal2{
+	background-color: rgb(150,200,150);
+}
+.sinal3{
+	background-color: rgb(150,150,200);
+}
+.style-unique{
+	font-size: 16px;
+	color: white;
+        background-color: rgb(150,150,150);
+}
